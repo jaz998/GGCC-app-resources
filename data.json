@@ -1,12 +1,12 @@
 [
   {
     "id": 0,
-    "category": "最新活动",
+    "category": "Events 商会活动",
     "content": {
       "id": 0,
       "image": "IMG_INVITATION",
       "time": "3 hours",
-      "description": "介绍商会的最新活动",
+      "description": "",
       "events": [
         {
           "id": 0,
@@ -34,7 +34,7 @@
     "memberCard": {
       "id": 0,
       "image": "GGCC_ALL_MEMBERS",
-      "title": "企业会员介绍",
+      "title": "Associate Member & Sponsors 企业会员及赞助商",
       "description": "企业会员详情",
       "members": [
         {
