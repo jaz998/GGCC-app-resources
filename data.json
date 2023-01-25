@@ -1,12 +1,12 @@
 [
   {
     "id": 0,
-    "category": "Events   商会活动2",
+    "category": "Events",
     "content": {
       "id": 0,
       "image": "IMG_INVITATION",
       "time": "3 hours",
-      "description": "",
+      "description": "商会活动",
       "events": [
         {
           "id": 0,
